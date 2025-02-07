@@ -5,4 +5,4 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
 ## Lectures
--[lecture summaries](comp1238.md)
+- [lecture summaries](comp1238.md)
